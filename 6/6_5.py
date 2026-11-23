@@ -24,3 +24,4 @@ for x in range(-10, 120):
         goto(x*m, y*m)
         dot(5)
 done()
+
